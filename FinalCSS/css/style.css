@@ -1,0 +1,57 @@
+/*style sheet for final CSS project*/
+
+body	{
+	background-image: url("https://ak7.picdn.net/shutterstock/videos/24775517/thumb/1.jpg");
+	font-family: Helvetica, sans-serif;
+}
+
+header {margin:0em;}
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align:center;
+	margin:0em;
+	padding: 0em;
+	
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: #FFF;
+}
+
+h3	{
+	font-size: 20px;
+}
+
+img	{
+	margin-left:1em;
+	border-color: darkblue;
+	border-style: outset;
+}
+
+#brushes h2 {
+	background-color: mediumspringgreen;
+}
+
+#frames h2	{
+	background-color: lightcoral;
+	
+}
+
+#paint h2	{
+	background-color: skyblue;
+}
+
+.cost	{
+	color: blue;
+	font-weight: bold;
+}
+
+.bordered	{
+	border-style: outset;
+}
+
+p {padding-left:1em;}
